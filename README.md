@@ -2,6 +2,8 @@
 
 A modern frontend application built with **React** and **Vite**, using **Chakra UI** for accessible UI components and **Framer Motion** for smooth animations. This project is designed for creating and managing social media posts with a clean and responsive user interface.
 
+[Step-by-Step Guide to Build a Social Media Post Scheduler in ReactJs.](https://www.sevensquaretech.com/build-social-media-post-scheduler-reactjs-code-github/)
+
 ---
 
 ## 🚀 Tech Stack
